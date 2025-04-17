@@ -1,0 +1,2 @@
+prefix,minimum_column_coverage,num_seqs,seqlen,num_cov,num_lc,perc_cov,1st_uc,last_uc,len_cov,num_lc_cov,N_eff
+569e6caae3924f388009e0ad16150d83/PAM_INTERACTING_DOMAIN_PI_b0.3/align/PAM_INTERACTING_DOMAIN_PI_b0.3,0.700,1010,270,243,27,0.900,1102,1362,261,18,
