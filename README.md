@@ -29,5 +29,6 @@ VMD Main > File > Save Coordinates > Selected Atoms: index 0 to 26513 > File Typ
 
 VMD Main > File > Save Coordinates > Selected Atoms: index 0 to 26513 > File Type: pdb > Frames: First 0, Last 0, Stride, 1 > Save > Protein_NA_complex.pdb
 
+vmd Protein_NA_complex.pdb Protein_NA_complex.dcd
 
 
